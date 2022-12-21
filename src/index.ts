@@ -1,0 +1,1 @@
+export { shinigami } from "./shinigami"
