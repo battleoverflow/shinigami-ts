@@ -8,7 +8,7 @@ export const shinigami = (lang_os: string, version: string) => {
 
     try {
         fetch(
-            `https://raw.githubusercontent.com/shinigamilib/StoreDock/main/Docker/${lang_os}/${version}/Dockerfile`
+            `https://raw.githubusercontent.com/shinigamilib/DockDB/main/Docker/${lang_os}/${version}/Dockerfile`
         ).then(async (res) =>
             fs.writeFile("Dockerfile", await res.text(), function (err: any) {
                 if (err) {
