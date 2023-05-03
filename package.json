@@ -12,8 +12,23 @@
         "dockerfile",
         "azazelm3dj3d"
     ],
-    "files": ["dist"],
-    "author": "azazelm3dj3d",
+    "files": [
+        "dist"
+    ],
+    "author": {
+        "name": "azazelm3dj3d",
+        "url": "https://github.com/azazelm3dj3d"
+    },
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/azazelm3dj3d/"
+        },
+        {
+            "type": "patreon",
+            "url": "https://www.patreon.com/azazelm3dj3d"
+        }
+    ],
     "license": "BSD-2-Clause",
     "private": false,
     "scripts": {
