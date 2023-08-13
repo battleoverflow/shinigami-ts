@@ -21,6 +21,7 @@ npm i shinigami
 Getting started is easy, all you have to do is import the library and call a single function
 
 Here's an example:
+
 ```typescript
 import { shinigami } from "shinigami"
 
