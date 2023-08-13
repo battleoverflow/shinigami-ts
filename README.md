@@ -6,21 +6,17 @@ Shinigami is an open source TypeScript/JavaScript library allowing the user to g
 
 This library is currently not maintained and is missing some of the features of its counterparts. For now, the project is archived.
 
-This code was originally created as an open source Python module, converted to TypeScript/JavaScript for availability. If you're interested in using the Python version, check it out [here](https://github.com/azazelm3dj3d/shinigami).
+This code was originally created as an open source Python module, converted to TypeScript/JavaScript for availability. If you're interested in using the Python version, check it out [here](https://github.com/azazelm3dj3d/shinigami). The Python library is currently being supported.
 
 ## Install
 
-Shinigami is currently in the npm registry, so it should be pretty straightforward to install
+Shinigami was removed from the npm registry, so you'll have to build it directly:
 
 ```bash
-npm i shinigami
+npm run build
 ```
 
 ## Usage
-
-Getting started is easy, all you have to do is import the library and call a single function
-
-Here's an example:
 
 ```typescript
 import { shinigami } from "shinigami"
