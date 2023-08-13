@@ -1,6 +1,6 @@
 {
     "name": "shinigami",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Shinigami is an open source TypeScript/JavaScript library allowing the user to generate Dockerfiles during runtime",
     "repository": "azazelm3dj3d/shinigami-ts",
     "main": "dist/shinigami.js",

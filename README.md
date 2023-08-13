@@ -4,7 +4,7 @@
 
 Shinigami is an open source TypeScript/JavaScript library allowing the user to generate Dockerfiles during runtime.
 
-This library is currently not maintained and is missing some of the features of its counterparts. I may eventually come back and update it if the necessity arises, but currently, I have no use for this library in any other projects.
+This library is currently not maintained and is missing some of the features of its counterparts. For now, the project is archived.
 
 This code was originally created as an open source Python module, converted to TypeScript/JavaScript for availability. If you're interested in using the Python version, check it out [here](https://github.com/azazelm3dj3d/shinigami).
 
