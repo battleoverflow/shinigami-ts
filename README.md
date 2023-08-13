@@ -1,14 +1,12 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/shinigamilib/shinigami-py/main/assets/shinigami_logo.png" />
+    <img src="https://raw.githubusercontent.com/azazelm3dj3d/shinigami/main/assets/shinigami_logo.png" />
 </h1>
 
 Shinigami is an open source TypeScript/JavaScript library allowing the user to generate Dockerfiles during runtime.
 
-This library is currently not maintained and is missing a lot of the features of its counterparts. I may eventually come back and update it if the necessity arises, but currently, I have no use for this library in any other projects.
+This library is currently not maintained and is missing some of the features of its counterparts. I may eventually come back and update it if the necessity arises, but currently, I have no use for this library in any other projects.
 
-If someone else is interested in helping maintain the TypeScript port, feel free to submit a PR! :)
-
-This code was originally created as an open source Python module, converted to TypeScript/JavaScript for availability. If you're interested in using the Python version, check it out [here](https://github.com/shinigamilib/shinigami-py).
+This code was originally created as an open source Python module, converted to TypeScript/JavaScript for availability. If you're interested in using the Python version, check it out [here](https://github.com/azazelm3dj3d/shinigami).
 
 ## Install
 
@@ -32,4 +30,4 @@ const generateDockerfile = () => {
 }
 ```
 
-You can find all available Dockerfiles here: [DockDB](https://github.com/shinigamilib/DockDB)
+You can find all available Dockerfiles here: [DockDB](https://github.com/azazelm3dj3d/DockDB)
