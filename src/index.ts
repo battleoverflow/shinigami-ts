@@ -1,6 +1,6 @@
 /*
-    Project: Shinigami (https://github.com/azazelm3dj3d/shinigami-ts)
-    Authors: azazelm3dj3d (https://github.com/azazelm3dj3d)
+    Project: Shinigami (https://github.com/battleoverflow/shinigami-ts)
+    Authors: battleoverflow (https://github.com/battleoverflow)
     License: BSD 2-Clause
 */
 

@@ -1,6 +1,6 @@
 /*
-    Project: Shinigami (https://github.com/azazelm3dj3d/shinigami-ts)
-    Authors: azazelm3dj3d (https://github.com/azazelm3dj3d)
+    Project: Shinigami (https://github.com/battleoverflow/shinigami-ts)
+    Authors: battleoverflow (https://github.com/battleoverflow)
     License: BSD 2-Clause
 */
 
@@ -10,7 +10,7 @@ import * as fs from "fs"
 export const shinigami = (lang_os: string, version: string) => {
     try {
         fetch(
-            `https://raw.githubusercontent.com/azazelm3dj3d/DockDB/main/Docker/${lang_os}/${version}/Dockerfile`
+            `https://raw.githubusercontent.com/battleoverflow/DockDB/main/Docker/${lang_os}/${version}/Dockerfile`
         ).then(async (res: { text: () => any }) =>
             fs.writeFile("Dockerfile", await res.text(), function (err: any) {
                 if (err) {

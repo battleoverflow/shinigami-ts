@@ -2,31 +2,31 @@
     "name": "shinigami",
     "version": "0.0.5",
     "description": "Shinigami is an open source TypeScript/JavaScript library allowing the user to generate Dockerfiles during runtime",
-    "repository": "azazelm3dj3d/shinigami-ts",
+    "repository": "battleoverflow/shinigami-ts",
     "main": "dist/shinigami.js",
     "types": "dist/shinigami.d.ts",
     "keywords": [
-        "azazelm3dj3d",
+        "battleoverflow",
         "shinigami",
         "docker",
         "dockerfile",
-        "azazelm3dj3d"
+        "battleoverflow"
     ],
     "files": [
         "dist"
     ],
     "author": {
-        "name": "azazelm3dj3d",
-        "url": "https://github.com/azazelm3dj3d"
+        "name": "battleoverflow",
+        "url": "https://github.com/battleoverflow"
     },
     "funding": [
         {
             "type": "github",
-            "url": "https://github.com/sponsors/azazelm3dj3d/"
+            "url": "https://github.com/sponsors/battleoverflow/"
         },
         {
             "type": "patreon",
-            "url": "https://www.patreon.com/azazelm3dj3d"
+            "url": "https://www.patreon.com/battleoverflow"
         }
     ],
     "license": "BSD-2-Clause",
@@ -38,7 +38,7 @@
         "pretty": "npx prettier --write ."
     },
     "bugs": {
-        "url": "https://github.com/azazelm3dj3d/shinigami-ts/issues"
+        "url": "https://github.com/battleoverflow/shinigami-ts/issues"
     },
     "dependencies": {
         "@types/node": "^18.11.17",
